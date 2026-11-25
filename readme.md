@@ -2,10 +2,13 @@
 
 ## Oldalak
 
-- gjhg j
-- fhjgjh
+- Főoldal(Olivér)
+- Termékek(Milán)
+- Admin(Milán)
+- Kosár(Milán)
+- Profil(Olivér)
 
 
-## Drgjhőó
+## Drótváz
 
-![Tux, the Linux mascot](/assets/images/tux.png)
+![Tux, the Linux mascot](drotvazak/drotvazak.drawio.png)
